@@ -1,0 +1,34 @@
+*{
+    margin: 0; /* Da borda para fora */
+    padding: 0;/* DA borda para dentro */
+} 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+} 
+header{
+    background-color: #ff6347;
+    color: white; 
+    padding: 20px 0;
+    /* linha 18 e 20 */ 
+} 
+.Recipe {
+    padding: 2px;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 50%; 
+}
+ul,ol{
+    margin: 20px 0; 
+}
+footer{
+    background-color: #ff6347;
+    color: white;
+    padding: 10px 0; 
+    position: absolute;
+    bottom: 0;
+    width: 100%; 
+}
